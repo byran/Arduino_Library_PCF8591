@@ -12,9 +12,9 @@ PCF8591	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-InitialiseDevice  KEYWORD2
-UpdateReadings  KEYWORD2
-Data  KEYWORD2
+InitialiseDevice	KEYWORD2
+UpdateReadings	KEYWORD2
+Data	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
